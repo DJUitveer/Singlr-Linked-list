@@ -1,0 +1,16 @@
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\bin\Debug\netcoreapp3.1\SingleLinkedList.exe
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\bin\Debug\netcoreapp3.1\SingleLinkedList.deps.json
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\bin\Debug\netcoreapp3.1\SingleLinkedList.runtimeconfig.json
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\bin\Debug\netcoreapp3.1\SingleLinkedList.runtimeconfig.dev.json
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\bin\Debug\netcoreapp3.1\SingleLinkedList.dll
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\bin\Debug\netcoreapp3.1\SingleLinkedList.pdb
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.csproj.AssemblyReference.cache
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.Form1.resources
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.csproj.GenerateResource.cache
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.AssemblyInfoInputs.cache
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.AssemblyInfo.cs
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.dll
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.pdb
+C:\Users\DJ Uitveer\source\repos\SingleLinkedList\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.genruntimeconfig.cache
